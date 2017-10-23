@@ -308,5 +308,20 @@
         "type": "action"
       }
     }
+  },
+  "viewissues": {
+    "type": "object",
+    "comment": "Model",
+    "properties": {
+      "ID": {
+        "type": "string"
+      },
+      "Status": {
+        "type": "string"
+      },
+      "Summary": {
+        "type": "string"
+      }
+    }
   }
 }
