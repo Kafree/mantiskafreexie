@@ -22,13 +22,6 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "logincaptivating",
-      "name": "Login-Captivating",
-      "sourceScreenId": "app.login.logincaptivating",
-      "sourceAppId": "universaltemplates",
-      "model": "logincaptivating"
-    },
-    {
       "id": "login",
       "name": "Login",
       "sourceScreenId": "app.login.loginconfident",
