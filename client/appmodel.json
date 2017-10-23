@@ -313,14 +313,22 @@
     "type": "object",
     "comment": "Model",
     "properties": {
-      "ID": {
-        "type": "string"
-      },
-      "Status": {
-        "type": "string"
-      },
-      "Summary": {
-        "type": "string"
+      "issuelist": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "ID": {
+              "type": "string"
+            },
+            "Status": {
+              "type": "string"
+            },
+            "Summary": {
+              "type": "string"
+            }
+          }
+        }
       }
     }
   }
