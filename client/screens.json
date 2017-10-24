@@ -50,13 +50,6 @@
       "model": "viewissues"
     },
     {
-      "id": "loginclassic",
-      "name": "Login-Classic",
-      "sourceScreenId": "app.login.loginclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "loginclassic"
-    },
-    {
       "id": "logincool",
       "name": "Login-Cool",
       "sourceScreenId": "app.login.logincool",

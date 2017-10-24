@@ -69,15 +69,6 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.loginclassic', {
-        views: {
-            app: {
-                controller: 'app_loginclassic',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.loginclassic');
-                }
-            }
-        }
     }).state('app.logincool', {
         views: {
             app: {
