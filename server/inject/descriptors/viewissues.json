@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "comment": "Model",
+  "properties": {
+    "issuelist": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ID": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          },
+          "Status": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          },
+          "Summary": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          }
+        }
+      },
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
