@@ -55,6 +55,13 @@
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "loginclassic"
+    },
+    {
+      "id": "logincool",
+      "name": "Login-Cool",
+      "sourceScreenId": "app.login.logincool",
+      "sourceAppId": "universaltemplates",
+      "model": "logincool"
     }
   ],
   "sourceAppId": "_blank",
