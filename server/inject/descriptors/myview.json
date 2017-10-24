@@ -3,8 +3,9 @@
   "properties": {
     "isMyview": {
       "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": ".form-title",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
     },
     "viewissueslink": {
       "type": "action",
