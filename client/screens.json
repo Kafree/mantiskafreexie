@@ -48,6 +48,13 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissues"
+    },
+    {
+      "id": "loginclassic",
+      "name": "Login-Classic",
+      "sourceScreenId": "app.login.loginclassic",
+      "sourceAppId": "universaltemplates",
+      "model": "loginclassic"
     }
   ],
   "sourceAppId": "_blank",
