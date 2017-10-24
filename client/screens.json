@@ -48,13 +48,6 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissues"
-    },
-    {
-      "id": "logincool",
-      "name": "Login-Cool",
-      "sourceScreenId": "app.login.logincool",
-      "sourceAppId": "universaltemplates",
-      "model": "logincool"
     }
   ],
   "sourceAppId": "_blank",
