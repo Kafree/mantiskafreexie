@@ -13,7 +13,7 @@
               "type": "none"
             },
             "selector": "td",
-            "selectIndex": 4,
+            "selectIndex": 5,
             "control": "property.innerText"
           },
           "Status": {
