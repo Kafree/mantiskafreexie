@@ -40,6 +40,12 @@
         "type": "none"
       },
       "selectorAll": "#buglist tbody tr[bgcolor]"
+    },
+    "isViewIssues": {
+      "type": "identifier",
+      "selector": ".floatleft",
+      "control": "property.innerText",
+      "selectContains": "Viewing Issues"
     }
   },
   "connect": []
