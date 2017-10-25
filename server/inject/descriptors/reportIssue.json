@@ -8,13 +8,13 @@
     },
     "summary": {
       "type": "string",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "[name=\"summary\"]",
+      "control": "text"
     },
     "description": {
       "type": "string",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "[name=\"description\"]",
+      "control": "text"
     }
   },
   "connect": [
