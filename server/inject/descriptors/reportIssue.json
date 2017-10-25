@@ -19,7 +19,7 @@
     "isReportIssue": {
       "type": "identifier",
       "selector": "[name=\"description\"]",
-      "control": "text",
+      "control": "exists",
       "selectContains": "submit report"
     }
   },
