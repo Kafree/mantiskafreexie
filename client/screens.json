@@ -29,13 +29,6 @@
       "model": "loginconfident"
     },
     {
-      "id": "formlargeclassic",
-      "name": "FormLarge-Classic",
-      "sourceScreenId": "app.formlarge.formlargeclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "formlargeclassic"
-    },
-    {
       "id": "formsmallclassic",
       "name": "FormSmall-Classic",
       "sourceScreenId": "app.formsmall.formsmallclassic",
