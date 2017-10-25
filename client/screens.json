@@ -40,7 +40,7 @@
       "name": "Loginconfident",
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
-      "model": "loginconfident_2"
+      "model": "loginconfident"
     }
   ],
   "sourceAppId": "_blank",
