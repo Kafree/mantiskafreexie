@@ -22,13 +22,6 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "logincon",
-      "name": "logincon",
-      "sourceScreenId": "app.login.loginconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "loginconfident"
-    },
-    {
       "id": "viewissues",
       "name": "Viewissues",
       "sourceScreenId": "app.blank",
