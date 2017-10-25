@@ -34,13 +34,6 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissues"
-    },
-    {
-      "id": "reportissueexample",
-      "name": "ReportIssueExample",
-      "sourceScreenId": "app.formlarge.formlargeclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "reportissueexample"
     }
   ],
   "sourceAppId": "_blank",
