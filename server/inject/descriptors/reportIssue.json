@@ -21,6 +21,12 @@
       "selector": ".form-title",
       "control": "exists",
       "selectContains": "Enter Report Details"
+    },
+    "submit": {
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button",
+      "selectContains": "submit"
     }
   },
   "connect": [
