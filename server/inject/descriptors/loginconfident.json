@@ -58,7 +58,7 @@
         "isLogin"
       ],
       "screens": [
-        "login"
+        "loginconfident"
       ]
     }
   ]
