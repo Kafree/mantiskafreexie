@@ -41,6 +41,12 @@
       "sourceScreenId": "app.formlarge.formlargeclassic",
       "sourceAppId": "universaltemplates",
       "model": "formlargeclassic"
+    },
+    {
+      "id": "reportissue",
+      "name": "reportIssue",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
