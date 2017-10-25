@@ -34,6 +34,13 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissues"
+    },
+    {
+      "id": "loginconfident",
+      "name": "Loginconfident",
+      "sourceScreenId": "app.login.loginconfident",
+      "sourceAppId": "universaltemplates",
+      "model": "loginconfident_2"
     }
   ],
   "sourceAppId": "_blank",
