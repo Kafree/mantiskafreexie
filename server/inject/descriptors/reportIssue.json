@@ -3,7 +3,7 @@
   "properties": {
     "category": {
       "type": "select",
-      "selector": "body",
+      "selector": "[name=\"category_id\"]",
       "control": "property.innerText"
     },
     "summary": {
