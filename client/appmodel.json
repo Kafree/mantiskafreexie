@@ -269,5 +269,19 @@
         "type": "string"
       }
     }
+  },
+  "reportIssue": {
+    "type": "object",
+    "properties": {
+      "category": {
+        "type": "select"
+      },
+      "summary": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      }
+    }
   }
 }

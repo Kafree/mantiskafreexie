@@ -47,7 +47,7 @@
       "name": "reportIssue",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "reportissue"
+      "model": "reportIssue"
     }
   ],
   "sourceAppId": "_blank",

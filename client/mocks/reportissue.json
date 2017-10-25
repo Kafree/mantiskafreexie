@@ -1,14 +1,1 @@
-{
-  "category": {
-    "options": [
-      {
-        "label": "Text1",
-        "value": "1"
-      },
-      {
-        "label": "Text2",
-        "value": "2"
-      }
-    ]
-  }
-}
+{}
