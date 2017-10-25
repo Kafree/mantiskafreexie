@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "comment": "Report an issue",
+  "properties": {
+    "category": {
+      "type": "select"
+    }
+  },
+  "connect": []
+}
