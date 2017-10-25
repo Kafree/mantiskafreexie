@@ -259,19 +259,8 @@
     "type": "object",
     "comment": "Report an issue",
     "properties": {
-      "issuecategory": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "text": {
-              "type": "string"
-            },
-            "value": {
-              "type": "string"
-            }
-          }
-        }
+      "category": {
+        "type": "select"
       }
     }
   }
