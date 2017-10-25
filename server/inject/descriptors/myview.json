@@ -9,7 +9,7 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "a[href='/mantisbt/view_all_bug_page.php']",
+      "selector": "a",
       "control": "action.link",
       "selectContains": "View Issues"
     }
