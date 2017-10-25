@@ -15,6 +15,12 @@
       "type": "string",
       "selector": "[name=\"description\"]",
       "control": "text"
+    },
+    "isReportIssue": {
+      "type": "identifier",
+      "selector": "[name=\"description\"]",
+      "control": "text",
+      "selectContains": "submit report"
     }
   },
   "connect": [
