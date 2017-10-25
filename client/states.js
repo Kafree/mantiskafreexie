@@ -33,12 +33,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.loginconfident', {
+    }).state('app.logincon', {
         views: {
             app: {
-                controller: 'app_loginconfident',
+                controller: 'app_logincon',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.loginconfident');
+                    return app.templateProvider('app.logincon');
                 }
             }
         }

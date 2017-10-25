@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "mantiskafreexie",
-  "startScreen": "app.loginconfident",
+  "startScreen": "app.logincon",
   "screens": [
     {
       "id": "blank",
@@ -22,8 +22,8 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "loginconfident",
-      "name": "loginconfident",
+      "id": "logincon",
+      "name": "logincon",
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
