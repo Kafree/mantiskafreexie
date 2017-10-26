@@ -48,6 +48,13 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "reportIssue"
+    },
+    {
+      "id": "viewissuelist",
+      "name": "viewissuelist",
+      "sourceScreenId": "app.infinitescroll",
+      "sourceAppId": "InfiniteScroll",
+      "model": "viewissuelist"
     }
   ],
   "sourceAppId": "_blank",
